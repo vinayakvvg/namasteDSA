@@ -28,3 +28,8 @@ const reverseInteger = function (num) {
 console.log(reverseInteger(123));
 console.log(reverseInteger(-123));
 console.log(reverseInteger(1534236469));
+
+// Output
+// 321
+// -321
+// 0 (overflow)

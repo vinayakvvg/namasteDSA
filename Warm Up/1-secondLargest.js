@@ -32,3 +32,9 @@ console.log(findSecondLargest([10, 20]));
 
 // checks for -ve and +ve numbers
 // checks for duplicate elements in the array and returns not duplicate value
+
+// Output
+// 7
+// No second largest found
+// Array should have at least two numbers
+// 10
