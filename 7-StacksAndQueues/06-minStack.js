@@ -62,4 +62,4 @@ console.log(minStack.getMin());
 // 0
 // -2
 // TC - O(n)
-// SC - O(1)
+// SC - O(n)
